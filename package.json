@@ -7,6 +7,11 @@
     "build": "parcel build --no-source-maps --dist-dir build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "alias": {
+    "page": "/src/page",
+    "global": "/src/global",
+    "store": "/src/store"
+  },
   "keywords": [],
   "author": "",
   "license": "",
