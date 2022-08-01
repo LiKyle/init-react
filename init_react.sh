@@ -10,7 +10,7 @@ npm i -D parcel
 npm i react react-dom react-router-dom \
     @reduxjs/toolkit react-redux moment axios \
     bootstrap bootstrap-icons sweetalert2 \
-    styled-components chart.js react-chartjs-2
+    styled-components
 
 echo '/node_modules/
 /dist/

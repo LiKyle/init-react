@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "checkJs": true,
+        "jsx": "react",
+        "lib": [
+            "dom",
+            "esnext",
+            "es2015.promise"
+        ],
+    }
+}
