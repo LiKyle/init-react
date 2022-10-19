@@ -54,7 +54,7 @@ echo "import { configureStore } from '@reduxjs/toolkit'
 import { appReducer } from './appSlice'\n
 const store = configureStore({
     reducer: {
-        appReducer
+        app: appReducer
     },
 })\n
 export default store
