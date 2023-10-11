@@ -6,7 +6,7 @@ mkdir src/global
 mkdir src/store
 mkdir src/page
 
-npm i -D parcel
+npm i -D parcel buffer process @parcel/transformer-sass @types/react @types/react-dom
 npm i react react-dom react-router-dom \
     @reduxjs/toolkit react-redux moment axios \
     bootstrap bootstrap-icons sweetalert2 \
